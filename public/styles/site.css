@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: rgb(2, 2, 52);
+}
+
+#symbol {
+  font-size: 2em;
+}
+.board {
+  margin: auto;
+  width: 350px;
+  color: #96ffbb;
+}
+.board button {
+  height: 100px;
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: 3em;
+}
+
+#messages {
+  font-size: 1.9em;
+  color: #25cee8;
+}
